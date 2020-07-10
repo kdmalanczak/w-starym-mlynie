@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"
+import React, { useState } from "react"
 import Footer from "../organisms/Footer/Footer"
 import NavBar from "../organisms/NavBar/Navbar"
 import GlobalStyles from "../GlobalStyle"

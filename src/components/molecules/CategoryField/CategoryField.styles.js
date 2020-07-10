@@ -8,7 +8,7 @@ export const StyledCategory = styled.div`
   p {
     font-size: 1.2rem;
     margin: 0;
-    margin-bottom: 15px;
+    margin-bottom: 40px;
     display: flex;
     justify-content: space-between;
     padding: 0 15px;
@@ -21,10 +21,17 @@ export const StyledCategory = styled.div`
 
     li {
       text-align: justify;
+      padding-right: 60px;
+      position: relative;
 
       p {
         font-size: 1.6rem;
         margin: 0;
+      }
+
+      b {
+        position: absolute;
+        right: 0;
       }
     }
   }
