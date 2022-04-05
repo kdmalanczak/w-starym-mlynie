@@ -35,7 +35,9 @@ const News = () => {
     }
   `)
 
-  const news = data.allContentfulNews.edges
+  const news = data.allContentfulNews.edges.filter(
+    el => el.node.image.fluid !== null
+  )
 
   return (
     <>

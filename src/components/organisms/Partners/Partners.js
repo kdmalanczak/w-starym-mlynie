@@ -20,7 +20,9 @@ const Partners = () => {
       }
     }
   `)
-  const partners = data.allContentfulPartner.edges
+  const partners = data.allContentfulPartner.edges.filter(
+    el => el.node.photo.fixed !== null
+  )
 
   return (
     <PartnersBox>
