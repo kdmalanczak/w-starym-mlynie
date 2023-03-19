@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E437C0B8-7E2F-4941-AA02-9E798B8343C1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.cwiczenia1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cwiczenia1/MSNET2022_NST_praca_własna_ćw1_Emil_Malanczak.cs">
+    <Files>
+      <File FileName="cwiczenia1/MSNET2022_NST_praca_własna_ćw1_Emil_Malanczak.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cwiczenia1" expanded="True">
+            <Node name="cwiczenia1" expanded="True">
+              <Node name="MSNET2022_NST_praca_własna_ćw1_Emil_Malanczak.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

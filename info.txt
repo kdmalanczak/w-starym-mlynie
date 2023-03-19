@@ -1,0 +1,6 @@
+Nie wiem jak wysłać wiele plików naraz poprzez moodle dlatego udostępniam link do google drive:
+
+https://drive.google.com/drive/folders/1HbldOmkIT1ry7knDoBRPIkWv57iY79ss?usp=sharing
+
+
+Jest to mocno basic monorepo - rozwijam je bazując na jednym tutorialu i stopniowo adaptuje do wersji finalnej projektu (niekiedy mogą sie pojawiać rozjazdy tematyczne)

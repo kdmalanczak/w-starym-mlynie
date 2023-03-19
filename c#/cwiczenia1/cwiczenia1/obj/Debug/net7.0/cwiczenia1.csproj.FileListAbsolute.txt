@@ -1,0 +1,15 @@
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/bin/Debug/net7.0/cwiczenia1
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/bin/Debug/net7.0/cwiczenia1.deps.json
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/bin/Debug/net7.0/cwiczenia1.runtimeconfig.json
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/bin/Debug/net7.0/cwiczenia1.dll
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/bin/Debug/net7.0/cwiczenia1.pdb
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/cwiczenia1.csproj.AssemblyReference.cache
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/cwiczenia1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/cwiczenia1.AssemblyInfoInputs.cache
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/cwiczenia1.AssemblyInfo.cs
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/cwiczenia1.csproj.CoreCompileInputs.cache
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/cwiczenia1.dll
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/refint/cwiczenia1.dll
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/cwiczenia1.pdb
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/cwiczenia1.genruntimeconfig.cache
+/Users/misit/Desktop/dev/c#/cwiczenia1/cwiczenia1/obj/Debug/net7.0/ref/cwiczenia1.dll
